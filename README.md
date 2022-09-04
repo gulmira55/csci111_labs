@@ -1,2 +1,2 @@
 # csci111_labs
-leb 3
+lab 3
