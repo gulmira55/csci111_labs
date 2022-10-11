@@ -1,2 +1,2 @@
 # csci111_labs
-lab 3
+the repository with al lab archives
